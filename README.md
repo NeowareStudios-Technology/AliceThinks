@@ -11,3 +11,16 @@ This application is meant to serve as a demo displaying vision and machine learn
 
 **When you are focused on an item you may tap on the screen in the location you feel fit and an augmented 3D label will be placed in that location with the word of the top result as seen in the 'Recognition Process'.**
 <a href="https://imgflip.com/gif/2bnjgf"><img src="https://i.imgflip.com/2bnjgf.gif" title="made at imgflip.com"/></a>
+
+
+
+## Where Can You Find Us?
+
+* [Webpage](https://leapwithalice.io)
+* [AliceThinks iOS Appp Store (Coming Soon)]
+* [Facebook](https://www.facebook.com/LeapWithAlice/?ref=br_rs)
+* [Twitter](https://twitter.com/LeapWithAlice) 
+  [Telegram](https://t.me/LWAlice).
+* [Youtube](https://www.youtube.com/channel/UCrrw59HelHtZcLsNwUMCsIA?view_as=subscriber) 
+  [Github](https://github.com/AlfonsoMorales/Leap-With-Alice-Demo).
+* [Medium](https://medium.com/@LeapWithAlice)
