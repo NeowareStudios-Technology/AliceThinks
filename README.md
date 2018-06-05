@@ -4,6 +4,10 @@ This application is meant to serve as a demo displaying vision and machine learn
 # How It Works
 
 Once the application is installed on the device the user simply opens the application.
+
+<p align="center">
+<a href="https://imgflip.com/gif/2bnjhf"><img src="https://i.imgflip.com/2bnjhf.gif" title="made at imgflip.com"/></a>
+</p>
 <a href="https://imgflip.com/gif/2bnjhf"><img src="https://i.imgflip.com/2bnjhf.gif" title="made at imgflip.com"/></a>
 
 In the bottom right corner of the app you will notice something called 'Recognition Process'. Here the camera view along with the Machine Learning model will give you the top results for what it believes it is looking at.
