@@ -12,6 +12,7 @@
 <a href="https://imgflip.com/gif/2bnjef"><img src="https://i.imgflip.com/2bnjef.gif" title="made at imgflip.com"/></a>
 
 **- When you are focused on an item you may tap on the screen in the location you feel fit and an augmented 3D label will be placed in that location with the word of the top result as seen in the 'Recognition Process'.**
+
 <a href="https://imgflip.com/gif/2bnjgf"><img src="https://i.imgflip.com/2bnjgf.gif" title="made at imgflip.com"/></a>
 
 
