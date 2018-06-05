@@ -39,7 +39,7 @@ This application is meant to serve as a demo displaying vision and machine learn
 * [Alice Android App](https://play.google.com/store/apps/details?id=com.lwa.demo)
 * [Facebook](https://www.facebook.com/LeapWithAlice/?ref=br_rs)
 * [Twitter](https://twitter.com/LeapWithAlice) 
-* [Telegram](https://t.me/LWAlice).
+* [Telegram](https://t.me/LWAlice)
 * [Youtube](https://www.youtube.com/channel/UCrrw59HelHtZcLsNwUMCsIA?view_as=subscriber) 
-* [Github](https://github.com/AlfonsoMorales/Leap-With-Alice-Demo).
+* [Github](https://github.com/AlfonsoMorales/Leap-With-Alice-Demo)
 * [Medium](https://medium.com/@LeapWithAlice)
