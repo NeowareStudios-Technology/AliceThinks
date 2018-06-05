@@ -13,6 +13,14 @@ This application is meant to serve as a demo displaying vision and machine learn
 <a href="https://imgflip.com/gif/2bnjgf"><img src="https://i.imgflip.com/2bnjgf.gif" title="made at imgflip.com"/></a>
 
 
+# Technologies Used
+### Apple Vision Framework
+
+### Apple Machine Learning Model
+
+### Google Translate API
+
+
 
 ## Where Can You Find Us?
 
