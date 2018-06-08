@@ -26,9 +26,9 @@
 
 ```Core ML 2 lets you integrate a broad variety of machine learning model types into your app. In addition to supporting extensive deep learning with over 30 layer types, it also supports standard models such as tree ensembles, SVMs, and generalized linear models. Because it’s built on top of low level technologies like Metal and Accelerate, Core ML seamlessly takes advantage of the CPU and GPU to provide maximum performance and efficiency. You can run machine learning models on the device so data doesn't need to leave the device to be analyzed.```
 
-### Google Translate API
+### Apple AR Kit
 
-```The Google Cloud Translation API can dynamically translate text between thousands of language pairs. The Cloud Translation API lets websites and programs integrate with the translation service programmatically. The Google Translation API is part of the larger Cloud Machine Learning API family.```
+```ARKit allows developers to build high-detail AR experiences for iPad and iPhone. Environments captured through the device can have animated 3D virtual text, objects and characters added to them. AR scenes made by one individual are persistent and can be seen by others visiting the location later.```
 
 
 
