@@ -13,7 +13,25 @@ import ARKit
 import Vision
 
 class ViewController: UIViewController, ARSCNViewDelegate {
-
+    let image1 = UIImage(named: "Image")
+    let image2 = UIImage(named: "Identification of items using...")
+    let image3 = UIImage(named: "Camera and Results may vary")
+    
+    @IBOutlet weak var Coach1: UIImageView!
+    @IBOutlet weak var Coach2: UIImageView!
+    @IBOutlet weak var Coach3: UIImageView!
+    
+    @IBAction func CoachButton(_ sender: Any) {
+        if(Coach1.alpha == 1.0){
+            Coach1.alpha = 0
+            Coach2.alpha = 0
+            Coach3.alpha = 0
+        } else{
+            Coach1.alpha = 1.0
+            Coach2.alpha = 1.0
+            Coach3.alpha = 1.0
+        }
+    }
     // SCENE
     @IBOutlet var sceneView: ARSCNView!
     let bubbleDepth : Float = 0.01 // the 'depth' of 3D text
@@ -94,7 +112,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         super.didReceiveMemoryWarning()
         // Release any cached data, images, etc that aren't in use.
     }
-
+    
     // MARK: - ARSCNViewDelegate
     
     func renderer(_ renderer: SCNSceneRenderer, updateAtTime time: TimeInterval) {
@@ -157,14 +175,14 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         bubbleNode.scale = SCNVector3Make(0.2, 0.2, 0.2)
         
         // CENTRE POINT NODE
-//        let sphere = SCNSphere(radius: 0.005)
-//        sphere.firstMaterial?.diffuse.contents = UIColor.cyan
-//        let sphereNode = SCNNode(geometry: sphere)
+        //        let sphere = SCNSphere(radius: 0.005)
+        //        sphere.firstMaterial?.diffuse.contents = UIColor.cyan
+        //        let sphereNode = SCNNode(geometry: sphere)
         
         // BUBBLE PARENT NODE
         let bubbleNodeParent = SCNNode()
         bubbleNodeParent.addChildNode(bubbleNode)
-//        bubbleNodeParent.addChildNode(sphereNode)
+        //        bubbleNodeParent.addChildNode(sphereNode)
         bubbleNodeParent.constraints = [billboardConstraint]
         
         return bubbleNodeParent
